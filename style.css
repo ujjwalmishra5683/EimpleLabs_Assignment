@@ -43,11 +43,3 @@ body {
   padding: 10px 0 0 10px;
 }
 
-img {
-  height: 50px;
-  width: 50px;
-  margin-top: 600px;
-  margin-left: 1250px;
-  position: fixed;
-  display: inline;
-}
