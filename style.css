@@ -1,0 +1,53 @@
+body {
+  justify-content: center;
+  height: 1000px;
+}
+
+.head {
+  background-color: rgb(211, 247, 250);
+  height: 90px;
+  padding: 10px 0 0 10px;
+}
+.menu {
+  background-color: rgb(255, 239, 219);
+  height: 50px;
+  padding: 10px 0 0 10px;
+}
+
+.sidebar {
+  background-color: rgb(253, 223, 252);
+  height: 250px;
+  width: 20%;
+  padding: 10px 0 0 10px;
+  float: left;
+  overflow: auto;
+}
+
+::-webkit-scrollbar {
+  width: 1px;
+}
+
+.cont {
+  margin-top: 10px;
+  width: 77%;
+  height: 350px;
+  float: right;
+  overflow: auto;
+}
+
+.footer {
+  background-color: rgb(216, 246, 248);
+
+  margin-top: 360px;
+  height: 70px;
+  padding: 10px 0 0 10px;
+}
+
+img {
+  height: 50px;
+  width: 50px;
+  margin-top: 600px;
+  margin-left: 1250px;
+  position: fixed;
+  display: inline;
+}
